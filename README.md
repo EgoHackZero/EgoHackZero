@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EgoHackZero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/109929572?v=4"  />
 
 ###
 
@@ -60,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EgoHackZero/EgoHackZero/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EgoHackZero/EgoHackZero/snake.svg" alt="Snake animation" />
 
 ###
