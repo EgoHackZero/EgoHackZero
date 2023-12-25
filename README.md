@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/EgoHackZero/EgoHackZero/blob/main/snake.yml" alt="Snake animation" />
-
-###
