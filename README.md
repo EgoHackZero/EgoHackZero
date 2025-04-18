@@ -7,6 +7,7 @@
   <img src="https://streak-stats.demolab.com?user=EgoHackZero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EgoHackZero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<a href="https://app.daily.dev/egohackzero"><img src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default" width="356" alt="EgoHackZero's Dev Card"/></a>
 
 ###
 
