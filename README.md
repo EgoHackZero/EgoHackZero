@@ -2,40 +2,19 @@
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <a href="https://app.daily.dev/egohackzero">
-        <img
-          src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default"
-          width="356"
-          alt="EgoHackZero's Dev Card"
-        />
-      </a>
-    </td>
+<div style="display:flex;align-items:center;justify-content:space-between;">
+  <a href="https://app.daily.dev/egohackzero">
+    <img src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default" width="200" />
+  </a>
 
-   
-    <td align="right">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=EgoHackZero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-        height="150"
-        alt="stats graph"
-      /><br />
+  <div style="text-align:right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EgoHackZero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=EgoHackZero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EgoHackZero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  </div>
+</div>
 
-      <img
-        src="https://streak-stats.demolab.com?user=EgoHackZero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-        height="150"
-        alt="streak graph"
-      /><br />
-
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=EgoHackZero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-        height="150"
-        alt="languages graph"
-      />
-    </td>
-  </tr>
-</table>
 
 
 ###
