@@ -5,7 +5,7 @@
 <!-- Карточка daily.dev — плаваем влево -->
 <a href="https://app.daily.dev/egohackzero">
   <img
-    src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default"
+    src="./devcard.png"
     width="356"
     align="left"
     alt="EgoHackZero Dev Card"
