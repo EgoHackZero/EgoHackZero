@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Yehor and I'm an AI/ML programmer, from Ukraine</h2>
 
 ###
-<a href="https://app.daily.dev/egohackzero"><img src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default" width="356" alt="EgoHackZero's Dev Card"/></a>
+<a href="https://app.daily.dev/egohackzero" align="left"><img src="https://api.daily.dev/devcards/v2/b51GktmFUgKvXKBlBypLu.png?r=p0m&type=default" width="356" alt="EgoHackZero's Dev Card"/></a>
 <div align="right">
   
   <img src="https://github-readme-stats.vercel.app/api?username=EgoHackZero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
